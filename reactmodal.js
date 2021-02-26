@@ -1,0 +1,1 @@
+var result = "We have created the react modal logic here";
